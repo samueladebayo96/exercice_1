@@ -1,0 +1,24 @@
+h1 {
+    color: yellow;
+}
+
+span {
+    color: red;
+}
+
+form {
+    margin-bottom: 1em;
+}
+
+#logo {
+    max-width: 200px;
+}
+.labelFlex{
+    display: flex;
+    align-items: center;
+    gap: 0.5em;
+}
+
+.labelFlex > input {
+    max-width: 7em;
+}
